@@ -14,7 +14,7 @@ Aplicação para controle de financas - (Front-end: ReactJS, Typescript) (Backen
 
 ----------------------------------------------------
 
-👷 Instalação | 🚀 Execução
+## 👷 Instalação | 🚀 Execução
 
 Faça um clone desse repositório rodando:
 
